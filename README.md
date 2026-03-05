@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**x-zack-x/x-zack-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Cybersecurity student — Morocco
+ Goal : break into the cybersecurity industry 
+ TryHackMe :SOC Level 1 professional certification in progress
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------------
+## What I know -->>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Operating Systems
+- Linux fundamentals — navigation, permissions, basic commands
+- Windows & Active Directory — basics (still consolidating)
+
+### Networking
+- OSI Model | TCP/IP | Core networking concepts
+
+### Cryptography
+- Symmetric & Asymmetric encryption & Hashing — how it works mathematically
+
+### Web
+- Web fundamentals | JavaScript essentials
+- SQL basics | Burp Suite — familiarity
+- SQLi basics (needs revision)
+
+### Offensive Security
+- Metasploit basics | Hydra | Gobuster | SQLmap
+- Reverse shell & Bind shell basics
+
+### Defensive Security
+- SOC concepts | SIEM intro | IDS & Firewall basics
+- Vulnerability scanning basics
+
+### Tools
+- CAPA — malware behavior analysis (MBC, Namespaces, Capabilities)
+- CyberChef — data encoding/decoding
+- FlareVM | REMnux — basic familiarity
+
+### Currently Learning
+- TryHackMe SOC Level 1
+- CTF practice — PicoCTF
+-------------------------------------------------------------------------------------
+##  Links
+- TryHackMe : https://tryhackme.com/p/xzackx
+- LinkedIn : https://www.linkedin.com/in/zakaria-chaouki-b52604246/
