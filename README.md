@@ -1,8 +1,8 @@
 ## Hi there 👋
 
  Cybersecurity student — Morocco
- Goal : break into the cybersecurity industry 
- TryHackMe :SOC Level 1 professional certification in progress
+ / Goal : break into the cybersecurity industry 
+ / TryHackMe :SOC Level 1 professional certification in progress
 
 --------------------------------------------------------------------------------------
 ## What I know -->>
