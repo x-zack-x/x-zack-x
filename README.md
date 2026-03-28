@@ -38,6 +38,7 @@
 ### Currently Learning
 - TryHackMe SOC Level 1
 - CTF practice — PicoCTF
+- LABs cyberdefenders 
 -------------------------------------------------------------------------------------
 ##  Links
 - TryHackMe : https://tryhackme.com/p/xzackx
