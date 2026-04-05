@@ -12,22 +12,21 @@
 - Windows & Active Directory — basics (still consolidating)
 
 ### Networking
-- OSI Model | TCP/IP | Core networking concepts
+- OSI Model | TCP/IP | Core networking concepts and protocols
 
 ### Cryptography
 - Symmetric & Asymmetric encryption & Hashing — how it works mathematically
 
 ### Web
-- Web fundamentals | JavaScript essentials
+- Web fundamentals | html,css,JavaScript essentials
 - SQL basics | Burp Suite — familiarity
-- SQLi basics (needs revision)
 
 ### Offensive Security
 - Metasploit basics | Hydra | Gobuster | SQLmap
 - Reverse shell & Bind shell basics
 
 ### Defensive Security
-- SOC concepts | SIEM intro | IDS & Firewall basics
+- SOC concepts | SIEM intro | EDR & Firewall basics
 - Vulnerability scanning basics
 
 ### Tools
