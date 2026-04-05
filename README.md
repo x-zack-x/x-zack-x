@@ -8,7 +8,7 @@
 ## What I know -->>
 
 ## Operating Systems
-- Linux fundamentals — navigation, permissions, basic commands
+- Linux fundamentals — navigation, permissions, basic commands,processes/crons
 - Windows & Active Directory — basics (still consolidating)
 
 ### Networking
