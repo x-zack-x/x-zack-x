@@ -33,7 +33,10 @@
 - CAPA — malware behavior analysis (MBC, Namespaces, Capabilities)
 - CyberChef — data encoding/decoding
 - FlareVM | REMnux — basic familiarity
-
+- ALEAPP
+- wireshark
+- metasploit
+ 
 ### Currently Learning
 - TryHackMe SOC Level 1
 - CTF practice — PicoCTF
